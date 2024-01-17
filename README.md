@@ -1,6 +1,6 @@
 ### Hi there 👋, my name is Atal
 #### I am a ML Engineer
-![I am a ML Engineer](https://github.com/AtalGupta/AtalGupta/REAADME.png)
+![I am a ML Engineer](https://github.com/AtalGupta/REAADME.png)
 
 I have worked on various projects like predicting Streamflow runoff using a graph neural network, Multi-Camera Tracking and Reidentification system, Blithchron (Cultural Fest App of IIT Gandhinagar), and am curiously looking to do more such projects.
 
