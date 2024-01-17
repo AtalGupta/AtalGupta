@@ -6,4 +6,6 @@ I have worked on various projects like predicting Streamflow runoff using a grap
 
 Skills: Python / C++ / SQL / Dart / Flutter / Machine Learning / Deep Learning / OpenCV 
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AtalGupta&show_icons=true&theme=radical)
+
 - 🔭 I’m currently working on this page.
